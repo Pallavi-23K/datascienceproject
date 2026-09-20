@@ -1,1 +1,82 @@
 [2026-09-19 17:13:48,692]: INFO: main: Welcome to our custom logging data science]
+[2026-09-20 10:52:10,546]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-20 10:52:10,561]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-20 10:52:10,564]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-20 10:53:09,747]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-20 10:53:09,749]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-20 10:53:09,752]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-20 10:53:09,754]: INFO: common: created directory at: artifacts]
+[2026-09-20 10:53:16,599]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-20 10:53:16,601]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-20 10:53:16,603]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-20 10:53:16,605]: INFO: common: created directory at: artifacts]
+[2026-09-20 10:53:36,335]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-20 10:53:36,337]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-20 10:53:36,339]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-20 10:53:36,341]: INFO: common: created directory at: artifacts]
+[2026-09-20 10:53:36,343]: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-09-20 10:53:37,925]: INFO: 2446224622: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8C9A:44346:1F9174:5385BD:6AAF6DD8
+x-github-edge-region: centralindia
+Accept-Ranges: bytes
+Date: Sun, 20 Sep 2026 05:23:37 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10245-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1789881817.482895,VS0,VE310
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a2e2740b20dc4fa43cad0c19f52a563c8ba26df5
+Expires: Sun, 20 Sep 2026 05:28:37 GMT
+Source-Age: 0
+
+]
+[2026-09-20 11:27:50,083]: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2026-09-20 11:27:50,085]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-20 11:27:50,087]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-20 11:27:50,088]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-20 11:27:50,090]: INFO: common: created directory at: artifacts]
+[2026-09-20 11:27:50,092]: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-09-20 11:27:51,205]: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8C9A:44346:1F9174:5385BD:6AAF6DD8
+x-github-edge-region: centralindia
+Accept-Ranges: bytes
+Date: Sun, 20 Sep 2026 05:57:51 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10242-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1789883871.922903,VS0,VE257
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f6d363bf3cffb58a854d9e48035683dc9669589f
+Expires: Sun, 20 Sep 2026 06:02:51 GMT
+Source-Age: 0
+
+]
+[2026-09-20 11:27:51,214]: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x==========x]

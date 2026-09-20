@@ -1,2 +1,4 @@
 venv/
 .project_tracking/
+logs/
+artifacts/
