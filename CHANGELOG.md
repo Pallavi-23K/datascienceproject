@@ -9103,3 +9103,4911 @@ M .gitignore
 ?? src/datascience/pipeline/data_ingestion_pipeline.py
 ?? src/datascience/utils/__pycache__/
 ```
+
+## 2026-09-20 20:51:27
+- Change type: NEW FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File was created.
+- Git status:
+```text
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:51:33
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:51:40
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:51:49
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:51:53
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:51:59
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:52:03
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:52:09
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:52:56
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:00
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:03
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:10
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:13
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:17
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:29
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:32
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:36
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:39
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:43
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:55
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:53:58
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:54:08
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 20:54:11
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:00:52
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:00:55
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:00:59
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:01:08
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:01:15
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:01:18
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:01:22
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:01:31
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:01:35
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:01:57
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:02:00
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:02:32
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:37:20
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 21:37:23
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:18:46
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:18:49
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:18:53
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:18:56
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:03
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:06
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:09
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:13
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:16
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:20
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:23
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:27
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:30
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:33
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:37
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:40
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:44
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:47
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:50
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:19:54
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:20:46
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:20:49
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:21:11
+- Change type: MODIFIED FILE
+- File: schema.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:21:17
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:21:27
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:21:48
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:21:52
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:21:58
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:22:02
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:22:05
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:17
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:23
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:27
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:30
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:36
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:40
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:43
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:46
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:50
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:53
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:28:57
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:03
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:06
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:13
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:16
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:20
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:23
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:26
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:30
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:33
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:37
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:29:40
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:30:53
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:30:57
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:31:00
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:31:31
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:31:59
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:32:35
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:32:39
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:32:45
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:32:49
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:32:55
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:01
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:08
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:14
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:20
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:30
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:36
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:40
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:43
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:46
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:50
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:33:53
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:34:11
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:34:24
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:38:14
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:47:21
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:47:24
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:47:30
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:47:37
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:47:40
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:47:46
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:47:53
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:47:56
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:48:05
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:48:08
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:48:12
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:48:15
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:48:25
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:48:28
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:48:34
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:51:32
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:51:42
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 22:51:45
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:00:25
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:00:31
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:00:37
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:00:41
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:00:47
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:00:51
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:00:54
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:00
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:04
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:07
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:11
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:17
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:21
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:24
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:27
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:34
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:37
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:47
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:01:56
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:02
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:05
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:09
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:12
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:15
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:19
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:22
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:25
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:29
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:32
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:36
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:39
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:45
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:51
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:02:55
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:03:04
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:03:44
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:03:53
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:03:57
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-20 23:04:06
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:30:52
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:31:29
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:31:32
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:31:54
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:31:57
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:32:01
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:32:07
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:32:17
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:32:20
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:33:18
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:33:21
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:33:25
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:33:28
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:33:29
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:34:45
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:34:48
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:34:48
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:34:52
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:36:50
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:36:54
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:37:06
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:37:09
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:37:31
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:37:37
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:37:44
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:38:02
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:38:06
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:38:18
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:38:21
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:38:28
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:38:37
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:38:41
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:38:59
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:39:02
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:39:09
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:39:12
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:39:19
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:40:14
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:40:17
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:40:20
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:40:24
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:40:42
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:40:49
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:40:55
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:41:02
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:41:11
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:41:24
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:41:27
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:41:27
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:41:31
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:41:49
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:41:53
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:41:56
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:41:56
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:42:00
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:44:45
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:44:48
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:44:51
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:44:52
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:45:07
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:45:10
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:45:23
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:45:26
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:45:35
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:45:36
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:45:39
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:46:28
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:46:31
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:46:31
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:47:38
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:47:42
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:47:42
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:47:46
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:47:58
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:48:01
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:48:23
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:48:26
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:48:33
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:48:33
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:48:37
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:49:10
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:49:13
+- Change type: MODIFIED FILE
+- File: config\config.yaml
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:49:17
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:49:20
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:49:20
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:49:48
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:49:51
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:50:03
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:50:16
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:50:43
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:50:47
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:50:47
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:51:05
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:51:09
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:51:09
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:51:18
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:51:31
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:51:34
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 19:51:34
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:07:37
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:07:44
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:07:44
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:07:47
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:09:01
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:09:04
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:09:08
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:09:08
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:09:24
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:09:27
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:09:27
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:11:53
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:11:53
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:13:37
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:13:41
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:14:48
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:14:51
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:14:52
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:14:55
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:17:02
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:17:06
+- Change type: NEW FILE
+- File: artifacts\data_validation\status.txt
+- Branch: main
+- Details: File was created.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:17:06
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:17:06
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:17:10
+- Change type: MODIFIED FILE
+- File: research\2_data_validation.ipynb
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+```
+
+## 2026-09-21 20:19:55
+- Change type: NEW FILE
+- File: src\datascience\components\data_validation.py
+- Branch: main
+- Details: File was created.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:21:08
+- Change type: MODIFIED FILE
+- File: src\datascience\entity\config_entity.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:21:39
+- Change type: MODIFIED FILE
+- File: src\datascience\config\configuration.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:21:54
+- Change type: MODIFIED FILE
+- File: src\datascience\config\configuration.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:22:04
+- Change type: MODIFIED FILE
+- File: src\datascience\config\configuration.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:22:41
+- Change type: MODIFIED FILE
+- File: src\datascience\components\data_validation.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:22:56
+- Change type: MODIFIED FILE
+- File: src\datascience\components\data_validation.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:23:00
+- Change type: MODIFIED FILE
+- File: src\datascience\components\data_validation.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:23:12
+- Change type: MODIFIED FILE
+- File: src\datascience\components\data_validation.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:23:19
+- Change type: MODIFIED FILE
+- File: src\datascience\components\data_validation.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:23:22
+- Change type: MODIFIED FILE
+- File: src\datascience\components\data_validation.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:23:53
+- Change type: MODIFIED FILE
+- File: src\datascience\components\data_validation.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+```
+
+## 2026-09-21 20:24:39
+- Change type: NEW FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File was created.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:24:54
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:24:58
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:25:01
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:27:46
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:27:50
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:27:56
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:28:02
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:28:09
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:28:27
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:28:31
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:28:46
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:29:26
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:29:57
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:30:00
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:30:09
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:30:19
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:30:22
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:30:29
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:31:33
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:31:48
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:31:52
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:31:55
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:31:58
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:32:02
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:32:05
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:32:09
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:32:15
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:32:19
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:32:22
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:32:25
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:32:38
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 20:32:44
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:12:51
+- Change type: DELETED FILE
+- File: artifacts\data_validation\status.txt
+- Branch: main
+- Details: File was removed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:13:28
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:13:32
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:13:44
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:13:47
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:13:51
+- Change type: MODIFIED FILE
+- File: src\datascience\pipeline\data_validation_pipeline.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:14:15
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:14:22
+- Change type: MODIFIED FILE
+- File: main.py
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:14:25
+- Change type: NEW FILE
+- File: artifacts\data_validation\status.txt
+- Branch: main
+- Details: File was created.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/__pycache__/configuration.cpython-311.pyc
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/__pycache__/config_entity.cpython-311.pyc
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/__pycache__/data_validation.cpython-311.pyc
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/__pycache__/data_validation_pipeline.cpython-311.pyc
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:14:25
+- Change type: MODIFIED FILE
+- File: artifacts\data_ingestion\winequality-red.csv
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/__pycache__/configuration.cpython-311.pyc
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/__pycache__/config_entity.cpython-311.pyc
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/__pycache__/data_validation.cpython-311.pyc
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/__pycache__/data_validation_pipeline.cpython-311.pyc
+?? src/datascience/pipeline/data_validation_pipeline.py
+```
+
+## 2026-09-21 21:14:26
+- Change type: MODIFIED FILE
+- File: logs\logging.log
+- Branch: main
+- Details: File content or metadata changed.
+- Git status:
+```text
+M CHANGELOG.md
+ M config/config.yaml
+ M logs/logging.log
+ M main.py
+ M schema.yaml
+ M src/datascience/config/__pycache__/configuration.cpython-311.pyc
+ M src/datascience/config/configuration.py
+ M src/datascience/entity/__pycache__/config_entity.cpython-311.pyc
+ M src/datascience/entity/config_entity.py
+?? research/2_data_validation.ipynb
+?? src/datascience/components/__pycache__/data_validation.cpython-311.pyc
+?? src/datascience/components/data_validation.py
+?? src/datascience/pipeline/__pycache__/data_validation_pipeline.cpython-311.pyc
+?? src/datascience/pipeline/data_validation_pipeline.py
+```

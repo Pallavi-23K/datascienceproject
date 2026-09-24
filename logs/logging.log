@@ -80,3 +80,370 @@ Source-Age: 0
 [2026-09-20 11:27:51,214]: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<<
 
 x==========x]
+[2026-09-21 19:32:16,215]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:32:16,240]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:32:16,250]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:32:16,262]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:32:16,270]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:33:26,028]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:33:26,035]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:33:26,044]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:33:26,053]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:33:26,058]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:34:47,685]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:34:47,691]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:34:47,699]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:34:47,703]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:34:47,708]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:34:47,719]: ERROR: 1278422813: "'ConfigBox' object has no attribute 'unzipped_dir'"]
+Traceback (most recent call last):
+  File "box/box.py", line 605, in box.box.Box.__getitem__
+KeyError: 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/box.py", line 644, in box.box.Box.__getattr__
+  File "box/box.py", line 632, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'unzipped_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 646, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box/box.py", line 660, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'unzipped_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 605, in box.box.Box.__getitem__
+KeyError: 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/box.py", line 644, in box.box.Box.__getattr__
+  File "box/box.py", line 632, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'unzipped_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 646, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\palla\AppData\Local\Temp\ipykernel_29548\1278422813.py", line 3, in <module>
+    data_validation_config = config.get_data_validation_config()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\palla\AppData\Local\Temp\ipykernel_29548\2164890995.py", line 21, in get_data_validation_config
+    unzipped_dir= config.unzipped_dir,
+                  ^^^^^^^^^^^^^^^^^^^
+  File "box/config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box/box.py", line 660, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'unzipped_dir'"
+[2026-09-21 19:41:26,798]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:41:26,801]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:41:26,804]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:41:26,807]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:41:26,821]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:41:26,823]: ERROR: 1278422813: "'ConfigBox' object has no attribute 'unzipped_dir'"]
+Traceback (most recent call last):
+  File "box/box.py", line 605, in box.box.Box.__getitem__
+KeyError: 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/box.py", line 644, in box.box.Box.__getattr__
+  File "box/box.py", line 632, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'unzipped_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 646, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box/box.py", line 660, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'unzipped_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 605, in box.box.Box.__getitem__
+KeyError: 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/box.py", line 644, in box.box.Box.__getattr__
+  File "box/box.py", line 632, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'unzipped_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 646, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\palla\AppData\Local\Temp\ipykernel_29548\1278422813.py", line 3, in <module>
+    data_validation_config = config.get_data_validation_config()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\palla\AppData\Local\Temp\ipykernel_29548\2164890995.py", line 21, in get_data_validation_config
+    unzipped_dir= config.unzipped_dir,
+                  ^^^^^^^^^^^^^^^^^^^
+  File "box/config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box/box.py", line 660, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'unzipped_dir'"
+[2026-09-21 19:41:55,474]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:41:55,477]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:41:55,486]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:41:55,489]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:41:55,493]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:41:55,494]: ERROR: 1278422813: "'ConfigBox' object has no attribute 'unzipped_dir'"]
+Traceback (most recent call last):
+  File "box/box.py", line 605, in box.box.Box.__getitem__
+KeyError: 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/box.py", line 644, in box.box.Box.__getattr__
+  File "box/box.py", line 632, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'unzipped_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 646, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box/box.py", line 660, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'unzipped_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 605, in box.box.Box.__getitem__
+KeyError: 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/box.py", line 644, in box.box.Box.__getattr__
+  File "box/box.py", line 632, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'unzipped_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 646, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'unzipped_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\palla\AppData\Local\Temp\ipykernel_29548\1278422813.py", line 3, in <module>
+    data_validation_config = config.get_data_validation_config()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\palla\AppData\Local\Temp\ipykernel_29548\2164890995.py", line 21, in get_data_validation_config
+    unzipped_dir= config.unzipped_dir,
+                  ^^^^^^^^^^^^^^^^^^^
+  File "box/config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box/box.py", line 660, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'unzipped_dir'"
+[2026-09-21 19:44:48,872]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:44:48,875]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:44:48,879]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:44:48,883]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:44:48,884]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:44:48,886]: ERROR: 1278422813: "'ConfigBox' object has no attribute 'unzip_data_dir'"]
+Traceback (most recent call last):
+  File "box/box.py", line 605, in box.box.Box.__getitem__
+KeyError: 'unzip_data_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/box.py", line 644, in box.box.Box.__getattr__
+  File "box/box.py", line 632, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'unzip_data_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 646, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'unzip_data_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box/box.py", line 660, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'unzip_data_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 605, in box.box.Box.__getitem__
+KeyError: 'unzip_data_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box/box.py", line 644, in box.box.Box.__getattr__
+  File "box/box.py", line 632, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'unzip_data_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box/box.py", line 646, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'unzip_data_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\palla\AppData\Local\Temp\ipykernel_29548\1278422813.py", line 3, in <module>
+    data_validation_config = config.get_data_validation_config()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\palla\AppData\Local\Temp\ipykernel_29548\966818239.py", line 21, in get_data_validation_config
+    unzip_data_dir = config.unzip_data_dir,
+                     ^^^^^^^^^^^^^^^^^^^^^
+  File "box/config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box/box.py", line 660, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'unzip_data_dir'"
+[2026-09-21 19:45:06,564]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:45:06,567]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:45:06,573]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:45:06,576]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:45:06,580]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:45:06,584]: ERROR: 1278422813: DataValidationConfig.__init__() got an unexpected keyword argument 'STATUS_FILE']
+Traceback (most recent call last):
+  File "C:\Users\palla\AppData\Local\Temp\ipykernel_29548\1278422813.py", line 3, in <module>
+    data_validation_config = config.get_data_validation_config()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\palla\AppData\Local\Temp\ipykernel_29548\4046177554.py", line 18, in get_data_validation_config
+    data_validation_config = DataValidationConfig(
+                             ^^^^^^^^^^^^^^^^^^^^^
+TypeError: DataValidationConfig.__init__() got an unexpected keyword argument 'STATUS_FILE'
+[2026-09-21 19:45:22,872]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:45:22,877]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:45:22,882]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:45:22,885]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:45:22,886]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:45:35,455]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:45:35,458]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:45:35,478]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:45:35,481]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:45:35,483]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:46:30,095]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:46:30,099]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:46:30,104]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:46:30,107]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:46:30,108]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:47:42,050]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:47:42,051]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:47:42,055]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:47:42,059]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:47:42,060]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:47:58,012]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:47:58,019]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:47:58,024]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:47:58,029]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:47:58,033]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:48:33,104]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:48:33,105]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:48:33,108]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:48:33,110]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:48:33,111]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:49:18,403]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:49:18,404]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:49:18,408]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:49:18,411]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:49:18,413]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:50:44,795]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:50:44,799]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:50:44,803]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:50:44,807]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:50:44,810]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:51:07,233]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:51:07,236]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:51:07,244]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:51:07,248]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:51:07,250]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 19:51:31,985]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 19:51:31,988]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 19:51:31,994]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 19:51:31,997]: INFO: common: created directory at: artifacts]
+[2026-09-21 19:51:31,999]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 20:07:43,564]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 20:07:43,567]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 20:07:43,572]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 20:07:43,576]: INFO: common: created directory at: artifacts]
+[2026-09-21 20:07:43,582]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 20:09:04,889]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 20:09:04,892]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 20:09:04,900]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 20:09:04,907]: INFO: common: created directory at: artifacts]
+[2026-09-21 20:09:04,911]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 20:09:23,710]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 20:09:23,712]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 20:09:24,250]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 20:09:24,256]: INFO: common: created directory at: artifacts]
+[2026-09-21 20:09:24,260]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 20:11:50,724]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 20:11:50,730]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 20:11:50,739]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 20:11:50,744]: INFO: common: created directory at: artifacts]
+[2026-09-21 20:11:50,749]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 20:14:49,790]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 20:14:49,795]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 20:14:49,799]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 20:14:49,804]: INFO: common: created directory at: artifacts]
+[2026-09-21 20:14:49,809]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 20:17:03,210]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 20:17:03,217]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 20:17:03,226]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 20:17:03,232]: INFO: common: created directory at: artifacts]
+[2026-09-21 20:17:03,237]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 21:14:25,347]: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2026-09-21 21:14:25,349]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 21:14:25,352]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 21:14:25,355]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 21:14:25,358]: INFO: common: created directory at: artifacts]
+[2026-09-21 21:14:25,359]: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-09-21 21:14:25,360]: INFO: data_ingestion: FIle already exists]
+[2026-09-21 21:14:25,368]: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x==========x]
+[2026-09-21 21:14:25,368]: INFO: main: >>>>> stage Data Validation Stage started <<<<<]
+[2026-09-21 21:14:25,370]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-09-21 21:14:25,371]: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-09-21 21:14:25,378]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-09-21 21:14:25,380]: INFO: common: created directory at: artifacts]
+[2026-09-21 21:14:25,382]: INFO: common: created directory at: artifacts/data_validation]
+[2026-09-21 21:14:25,451]: INFO: main: >>>>> stage Data Validation Stage completed <<<<<
+
+x==========x]
